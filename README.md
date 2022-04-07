@@ -1,10 +1,5 @@
-# MAGIC
+# https://news-sports.ru
 THE LIMITLESSNESS OF INFORMATION FLOWS FOR THE REDUCTION OF LIMITATIONS
-<script>
-url_js_text="текст ссылки";
-
-url_js="https://news-sports.ru";
-
-document.write("<a href="+url_js+">"+url_js_text+"</a>");
-
-</script>
+<p>https://news-sports.ru
+  <a href="https://news-sports.ru">https://news-sports.ru</a>.
+</p>
