@@ -1,3 +1,10 @@
 # MAGIC
 THE LIMITLESSNESS OF INFORMATION FLOWS FOR THE REDUCTION OF LIMITATIONS
-https://news-sports.ru
+<script>
+url_js_text="текст ссылки";
+
+url_js="https://news-sports.ru";
+
+document.write("<a href="+url_js+">"+url_js_text+"</a>");
+
+</script>
